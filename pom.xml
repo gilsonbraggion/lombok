@@ -10,7 +10,7 @@
 	<properties>
 		<maven.compiler.source>11</maven.compiler.source>
 		<maven.compiler.target>11</maven.compiler.target>
-		<junit.version>4.13</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<org.powermock.version>2.0.7</org.powermock.version>
 		<beanmatchers.version>0.12</beanmatchers.version>
 		<lombok.version>1.18.12</lombok.version>
